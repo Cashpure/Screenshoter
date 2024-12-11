@@ -1,0 +1,21 @@
+<svg width="1255.126343" height="920.000000" viewBox="0 0 1255.13 920" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_131_234_dd" x="0.000000" y="0.000000" width="1255.126343" height="920.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="13.3333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<linearGradient x1="-0.000122" y1="0.000244" x2="2339.914062" y2="1235.149048" id="paint_linear_131_234_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#7421B0"/>
+			<stop offset="0.459933" stop-color="#D08EFF"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_131_234_dd)">
+		<path id="Ellipse 1" d="M672.62 920C994.33 920 1255.13 714.05 1255.13 460C1255.13 205.94 994.33 0 672.62 0C350.92 0 402.12 177 90.12 460C-221.88 743 350.92 920 672.62 920Z" fill="url(#paint_linear_131_234_0)" fill-opacity="0.200000" fill-rule="nonzero"/>
+		<path id="Ellipse 1" d="M672.62 920C994.33 920 1255.13 714.05 1255.13 460C1255.13 205.94 994.33 0 672.62 0C350.92 0 402.12 177 90.12 460C-221.88 743 350.92 920 672.62 920ZM1246.56 524.02Q1252.13 492.5 1252.13 460Q1252.13 427.5 1246.56 395.98Q1236.23 337.47 1206.71 282.36Q1162.79 200.36 1082.66 137.08Q1002.45 73.74 898.41 38.99Q883.8 34.11 869 29.89Q774.64 3 672.62 3Q598.01 3 544.76 16.16Q494.97 28.46 456.19 54.33Q422.41 76.87 388.36 116.01Q367.15 140.4 323.18 199.9Q267.33 275.5 230.28 319.36Q166.78 394.51 92.14 462.22Q-1.99 547.6 3.22 626.41Q4.02 638.53 7.17 650.5Q27.79 728.77 145.18 793.49Q248.76 850.6 402.67 884.99Q472.49 900.59 542.78 908.86Q611.96 917 672.62 917Q774.64 917 869 890.1Q883.8 885.88 898.41 881Q1002.45 846.25 1082.66 782.91Q1162.79 719.63 1206.71 637.63Q1236.22 582.52 1246.56 524.02Z" fill="#FFFFFF" fill-opacity="0.120000" fill-rule="evenodd"/>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="2277.817139" height="567.003296" viewBox="0 0 2277.82 567.003" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="1.003357" y1="1.002930" x2="2276.812744" y2="1.002930" id="paint_linear_131_25_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF59F8"/>
+			<stop offset="0.197917" stop-color="#AE72FF"/>
+			<stop offset="0.406250" stop-color="#90E9ED"/>
+			<stop offset="0.619792" stop-color="#5CD167"/>
+			<stop offset="0.825321" stop-color="#FFEE00"/>
+		</linearGradient>
+	</defs>
+	<path id="DecorativeLine" d="M1 1C121.33 210 228.61 384.5 352.56 398.5C476.52 412.5 527.26 282 612.8 282C698.33 282 739.65 342 767.19 398.5C794.74 455 849.83 566 953.49 566C1057.15 566 1107.89 448 1133.99 398.5C1160.07 349 1229.67 246 1326.8 246C1423.94 246 1452.93 303.79 1544.99 296.5C1637.05 289.2 1669.67 200.5 1765.35 200.5C1861.04 200.5 1817.44 267.74 1932.8 268.5C2048.15 269.26 2063.75 187.84 2134.93 124.07C2206.11 60.3 2276.81 134.13 2276.81 134.13" stroke="url(#paint_linear_131_25_0)" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
